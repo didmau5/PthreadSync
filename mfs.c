@@ -1,6 +1,6 @@
 /*
-Daniel Mow - V00730168
-CSC360 - Assignment 2 (MFS)
+Daniel Mow
+MFS
 Last Edited: March 5th, 2013
 
 README:
