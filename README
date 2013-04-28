@@ -1,2 +1,2 @@
-  My first submission to GitHub.  Code that I submitted as a school assignment and wish to improve/build upon.
+   Multi-flow scheduler simulation.  My first submission to GitHub.  Code that I submitted as a school assignment and wish to improve/build upon.  
   Scheduals "flows" as specified in the input file "test.txt" by flow ID; arrival time, transmission time, and priorty .
